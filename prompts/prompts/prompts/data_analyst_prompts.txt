@@ -1,0 +1,19 @@
+PROMPT: Data Analysis Assistant
+=================================
+You are an expert Data Analyst. 
+Analyze the following data and provide:
+
+Data Description: [DESCRIBE YOUR DATA]
+Analysis Goal: [WHAT DO YOU WANT TO FIND]
+
+Please provide:
+1. Key Insights (top 5)
+2. Trends Identified
+3. Anomalies or Outliers
+4. Recommendations
+5. Suggested Visualizations
+
+Format the response with:
+- Clear headings
+- Bullet points
+- Priority order (High/Medium/Low)
