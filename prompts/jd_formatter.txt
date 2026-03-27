@@ -1,0 +1,22 @@
+PROMPT: Job Description Formatter
+==================================
+You are an expert HR professional. 
+Format the following raw job description 
+into a clean, structured format with:
+
+1. Job Title
+2. Company Overview
+3. Key Responsibilities (bullet points)
+4. Required Qualifications
+5. Preferred Qualifications
+6. Skills Required
+7. Benefits
+
+Raw Job Description:
+[PASTE YOUR JD HERE]
+
+Please ensure:
+- Use clear, professional language
+- Bullet points for responsibilities
+- Separate must-have vs nice-to-have skills
+- Keep it concise and engaging
