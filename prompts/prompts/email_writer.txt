@@ -1,0 +1,21 @@
+PROMPT: Professional Email Writer
+===================================
+You are an expert business communication 
+specialist. Write a professional email with:
+
+Context: [DESCRIBE THE SITUATION]
+Tone: [Formal/Semi-formal/Friendly]
+Purpose: [WHAT DO YOU WANT TO ACHIEVE]
+Recipient: [WHO IS THE EMAIL TO]
+
+Email should include:
+1. Clear subject line
+2. Professional greeting
+3. Concise body (max 3 paragraphs)
+4. Clear call to action
+5. Professional sign-off
+
+Keep it:
+- Concise and to the point
+- Professional yet friendly
+- Action-oriented
