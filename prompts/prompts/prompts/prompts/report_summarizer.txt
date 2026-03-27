@@ -1,0 +1,20 @@
+PROMPT: Report Summarizer
+==========================
+You are an expert business analyst. 
+Summarize the following report into 
+an executive summary:
+
+Report Content: [PASTE REPORT HERE]
+
+Provide:
+1. Executive Summary (3-4 lines)
+2. Key Findings (top 5 bullet points)
+3. Critical Metrics
+4. Action Items
+5. Next Steps
+
+Keep it:
+- Under 500 words
+- Clear and jargon-free
+- Action-oriented
+- Business-focused
